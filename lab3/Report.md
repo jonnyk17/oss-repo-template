@@ -1,5 +1,14 @@
 # Lab 3
 
+## Part 1
+
+### LaTeX
+
+<img src="https://user-images.githubusercontent.com/85704037/151857603-b817b29b-b426-45e9-90af-d9b14cf7bd0a.JPG" width="500">
+
+<img src="https://user-images.githubusercontent.com/85704037/151857612-55e8467b-0daa-4411-a592-57fad90df7f2.JPG" width="500">
+
+
 ## Part 2
 
 ## Butter-Project
