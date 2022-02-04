@@ -2,7 +2,7 @@
 
 ## Why is it imporant to have licenses
  
- Licenses establish permission first to use, study modify and redistribute the software. It sets a common standard that's apodbted by all contributers and encourages more contributers.
+ Licenses establish permission first to use, study modify and redistribute the software. It sets a common standard that's adopted by all contributers and encourages more contributers.
  
  ## Why you shouldn't use software with no explicit licenses
  
